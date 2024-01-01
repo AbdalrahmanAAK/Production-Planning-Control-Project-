@@ -7,3 +7,5 @@ however they have two types of warehouses first is for fully functional devices 
 
 ## Objective 
 <div align="justify"> After Observing the system inside the warehouse it was noticable that the spare parts consists of three type small, medium and large. The main object is to determine the right forecast technique for each part </div>
+
+## Methodology 
