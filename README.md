@@ -1,4 +1,4 @@
-# Production-Planning & Control Project- 
+# Production Planning & Control Project 
 
 ## Introduction 
 <div align="justify"> 
